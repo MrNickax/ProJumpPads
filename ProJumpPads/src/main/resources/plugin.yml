@@ -1,0 +1,11 @@
+name: ProJumpPads
+authors: [Nickax, qKing12, SedatTR]
+main: com.nickax.jumppads.JumpPads
+description: Made by qKing12#1918 and SedatTR#8666 continued by Nickax
+version: 1.0.0
+api-version: '1.21'
+softdepend: [Multiverse-Core, PlaceholderAPI]
+
+commands:
+  jumppads:
+    description: Main command to manage and configure jumpads
